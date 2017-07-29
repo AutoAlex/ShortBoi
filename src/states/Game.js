@@ -8,7 +8,7 @@
 'use strict';
 
 var Logo = require('../objects/Logo');
-
+//
 exports.create = function (game) {
   //  TODO: Replace this content with really cool game code here :)
   var x = game.world.centerX;

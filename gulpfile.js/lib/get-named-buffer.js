@@ -4,7 +4,7 @@
  *
  * Extract a named buffer from a Browserify stream.
  */
-
+//
 'use strict';
 
 const buffer = require('vinyl-buffer');

@@ -7,7 +7,7 @@
  */
 
 'use strict';
-
+//
 //  -- Splash screen assets used by the Preloader.
 exports.preloaderAssets = [{
   key: 'splash-screen',

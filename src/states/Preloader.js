@@ -7,7 +7,7 @@
  */
 
 'use strict';
-
+//
 var assets = require('../assets');
 
 function showSplashScreen (game) {

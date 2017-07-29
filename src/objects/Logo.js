@@ -5,7 +5,7 @@
  * A simple prefab (extended game object class), displaying a spinning Phaser
  * logo.
  */
-
+//
 'use strict';
 
 function Logo(game, x, y) {

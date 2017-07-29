@@ -4,7 +4,7 @@
  */
 
 'use strict';
-
+//
 const watchify = require('watchify');
 const browserify = require('browserify');
 

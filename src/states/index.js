@@ -7,7 +7,7 @@
  */
 
 'use strict';
-
+//
 exports.Boot = require('./Boot');
 exports.Preloader = require('./Preloader');
 exports.Game = require('./Game');

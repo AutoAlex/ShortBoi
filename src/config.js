@@ -4,7 +4,7 @@
  *
  * The game instance settings.
  */
-
+//
 //  The game canvas dimensions.
 exports.width = 640;
 exports.height = 480;
